@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/best-expendables/logger"
+	"github.com/best-expendables-v2/logger"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -71,7 +71,7 @@ import (
 	"net/http"
 
 	"github.com/best-expendables-v2/httpclient/middleware"
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 )
 
 func main() {
@@ -106,7 +106,7 @@ import (
 	"net/http"
 
 	"github.com/best-expendables-v2/httpclient/middleware"
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 )
 
 func main() {

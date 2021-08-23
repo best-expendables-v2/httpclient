@@ -9,7 +9,7 @@ import (
 
 	"strings"
 
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 	"github.com/stretchr/testify/suite"
 )
 

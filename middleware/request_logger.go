@@ -3,7 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 )
 
 // RequestLogger create log for request

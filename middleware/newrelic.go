@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 	newrelic "github.com/newrelic/go-agent"
 )
 

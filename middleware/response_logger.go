@@ -4,7 +4,7 @@ import (
 	"github.com/best-expendables-v2/httpclient/net/profile"
 	"net/http"
 
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 )
 
 // ResponseLogger create log for response

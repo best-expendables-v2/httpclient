@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/best-expendables-v2/httpclient/middleware"
-	"github.com/best-expendables/logger"
+	"github.com/best-expendables-v2/logger"
 )
 
 func NewDefaultHttpClient(defaultEntry logger.Entry, timeout time.Duration) *http.Client {

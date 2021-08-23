@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/best-expendables/trace"
+	"github.com/best-expendables-v2/trace"
 	"net/http"
 	"net/http/httptest"
 	"testing"

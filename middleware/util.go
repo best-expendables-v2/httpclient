@@ -3,7 +3,7 @@ package middleware
 import (
 	"bytes"
 	"context"
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 	"io/ioutil"
 	"net/http"
 )

@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 
 	"github.com/best-expendables-v2/httpclient/middleware"
-	log "github.com/best-expendables/logger"
+	log "github.com/best-expendables-v2/logger"
 	"net/url"
 	"strings"
 )
