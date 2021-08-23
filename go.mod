@@ -1,4 +1,4 @@
-module github.com/best-expendables/httpclient
+module github.com/best-expendables-v2/httpclient
 
 go 1.12
 

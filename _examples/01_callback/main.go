@@ -6,7 +6,7 @@ import (
 	"context"
 	"net/http/httptest"
 
-	"github.com/best-expendables/httpclient/middleware"
+	"github.com/best-expendables-v2/httpclient/middleware"
 	log "github.com/best-expendables/logger"
 	"net/url"
 	"strings"

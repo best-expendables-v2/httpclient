@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/best-expendables/httpclient"
+	"github.com/best-expendables-v2/httpclient"
 	"github.com/stretchr/testify/assert"
 )
 

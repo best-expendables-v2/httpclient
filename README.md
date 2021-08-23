@@ -3,7 +3,7 @@
 ### Install
 ```yaml
 import:
-- package: github.com/best-expendables/httpclient
+- package: github.com/best-expendables-v2/httpclient
   version: x.x.x
 ```
 
@@ -43,8 +43,8 @@ Or for some cases you can get the report from response e.g.:
 package main(
 	"net/http"
     
-	"github.com/best-expendables/httpclient/middleware"
-	"github.com/best-expendables/httpclient/net/profile"
+	"github.com/best-expendables-v2/httpclient/middleware"
+	"github.com/best-expendables-v2/httpclient/net/profile"
 )
 	
 
@@ -70,7 +70,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/best-expendables/httpclient/middleware"
+	"github.com/best-expendables-v2/httpclient/middleware"
 	log "github.com/best-expendables/logger"
 )
 
@@ -105,7 +105,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/best-expendables/httpclient/middleware"
+	"github.com/best-expendables-v2/httpclient/middleware"
 	log "github.com/best-expendables/logger"
 )
 

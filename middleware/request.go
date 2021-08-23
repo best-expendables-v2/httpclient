@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/best-expendables/httpclient/net"
 	"encoding/json"
+	"github.com/best-expendables-v2/httpclient/net"
 	"io/ioutil"
 	"net/http"
 )

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/best-expendables/httpclient/middleware"
+	"github.com/best-expendables-v2/httpclient/middleware"
 	"github.com/best-expendables/logger"
 )
 

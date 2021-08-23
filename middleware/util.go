@@ -1,9 +1,9 @@
 package middleware
 
 import (
-	log "github.com/best-expendables/logger"
 	"bytes"
 	"context"
+	log "github.com/best-expendables/logger"
 	"io/ioutil"
 	"net/http"
 )

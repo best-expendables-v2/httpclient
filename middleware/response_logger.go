@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/best-expendables/httpclient/net/profile"
+	"github.com/best-expendables-v2/httpclient/net/profile"
 	"net/http"
 
 	log "github.com/best-expendables/logger"
